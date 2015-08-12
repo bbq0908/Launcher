@@ -14,7 +14,7 @@ Public Class Form1
         download = New WebClient
         download.DownloadFileTaskAsync("https://www.dropbox.com/s/j7uwpxin3eygkop/Mods.7z?dl=1", 경로)
         My.Computer.FileSystem.WriteAllBytes(Environ("appdata") & "\.minecraft\7z.exe", My.Resources._7z, True)
-        Process1.FileName = Environ("appdata") & "\.minecraft\7za.exe"
+        Process1.FileName = Environ("appdata") & "\.minecraft\7z.exe"
         Process1.Arguments = "x -y " & """" & Environ("appdata") & "\.minecraft\" & "Mods.7z""" & " -o" & """" & Environ("appdata") & "\.minecraft\"""
         Process1.WindowStyle = ProcessWindowStyle.Hidden
         Myprocess1 = Process.Start(Process1)
