@@ -1,0 +1,11 @@
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\bin\Debug\Project Marker.exe.config
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\bin\Debug\Project Marker.exe
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\bin\Debug\Project Marker.pdb
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\bin\Debug\Project Marker.xml
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project Marker.vbprojResolveAssemblyReference.cache
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project_Marker.Form1.resources
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project_Marker.Resources.resources
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project Marker.vbproj.GenerateResource.Cache
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project Marker.exe
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project Marker.xml
+c:\users\kpjhg\documents\visual studio 2015\Projects\Project Marker\Project Marker\obj\Debug\Project Marker.pdb
