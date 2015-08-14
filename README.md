@@ -1,7 +1,7 @@
 # Launcher
 크로아티아팀에서 사용할 런처입니다.
 
-###To-DO Lis
+###To-DO List
 * [머터리얼 스킨 적용](https://github.com/IgnaceMaes/MaterialSkin)
 * 모드 설치
  * 경로설정
